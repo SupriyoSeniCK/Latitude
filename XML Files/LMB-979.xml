@@ -13,7 +13,7 @@
     <members>Insurance__c.Premium_Rebate_Amount_GST_To_Display__c</members>
     <members>Insurance__c.Premium_Rebate_Amount_Net_To_Display__c</members>
     <members>Insurance__c.Premium_Rebate_Amount_S_Duty_To_Display__c</members>
- <name>CustomField</name>
+<name>CustomField</name>
 </types>
 <types>
     <members>TriggerHandlerInsurance</members>
@@ -26,12 +26,21 @@
     <name>ReportType</name>
 </types>
 <types>
-		<members>RBAC_Insurance</members>
-		<name>PermissionSet</name>
-	</types>
-        <types>
+	<members>RBAC_Insurance</members>
+	<name>PermissionSet</name>
+</types>
+<types>
     <members>Insurance__c-Insurance Layout</members>
     <name>Layout</name>
-    </types>
+</types>
+<types>
+    <members>LFS_Finance/Q2_AU_PL_INS_TXN_SUMM</members>
+    <members>LFS_Finance/Q2_AU_PL_INS_INCOME_UEP_AND_DAC</members>
+    <name>Report</name>
+</types>
+    <types>
+    <members>LoanInsuranceCancellationBatchQuery</members>
+    <name>CustomLabel</name>
+</types>
 	<version>55.0</version>
 </Package>
