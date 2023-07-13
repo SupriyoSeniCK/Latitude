@@ -22,7 +22,7 @@
 </types>
 <types>
     <members>Testing_Report/Insurance_Daily_Report</members>
-    <members>Testing_Report/LFS_Finance_Insurance_Report</members>
+    <members>LFS_Finance/LFS_Finance_Insurance_Report</members>
     <name>Report</name>
 </types>
 	<version>55.0</version>
