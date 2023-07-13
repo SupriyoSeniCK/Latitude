@@ -9,12 +9,14 @@
     <members>loan__Loan_Payment_Transaction__c.Insurance_Refund_Total__c</members>
     <members>loan__Loan_Payment_Transaction__c.Original_State__c</members>
     <members>loan__Loan_Payment_Transaction__c.Q2_Product_Code__c</members>
-<name>CustomField</name>
+    <members>Insurance__c.Loan_Product_Name__c</members>
+    <name>CustomField</name>
 </types>
 <types>
     <members>TriggerHandlerInsurance</members>
     <members>ATARPaymentHandler</members>
     <members>ATARMappingDagBatchTest</members>
+    <members>InsuranceConstants</members>
     <name>ApexClass</name>
 </types>
 <types>
