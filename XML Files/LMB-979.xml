@@ -14,8 +14,6 @@
 </types>
 <types>
     <members>TriggerHandlerInsurance</members>
-    <members>ATARPaymentHandler</members>
-    <members>ATARMappingDagBatchTest</members>
     <members>InsuranceConstants</members>
     <members>InsuranceTriggerTest</members>
     <name>ApexClass</name>
