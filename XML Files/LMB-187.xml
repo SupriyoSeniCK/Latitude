@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <version>58.0</version>
+    <types>
+        <members>QuoteWebServiceAPI</members>
+        <members>QuoteWebServiceAPIHelper</members>
+        <members>IntegrationUtil</members>
+        <members>AggregatorHelper</members>
+        <members>AggregatorBrokerHandler</members>
+        <members>AggregatorConstants</members>
+        <members>QuoteJSONWrapper</members>
+        <name>ApexClass</name>
+    </types>
+</Package>

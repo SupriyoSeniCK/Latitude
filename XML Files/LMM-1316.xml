@@ -3,14 +3,12 @@
 <types>
     <members>LoanPayoffQuoteTriggerTest</members>
     <members>LoanPayoffQuoteTriggerHandler</members>
-    <members>LoanPayoffQuoteETFHandler</members>
-    <members>InsuranceConstants</members>
+    <members>TriggerHandlerInsurance</members>
     <name>ApexClass</name>
 </types>
 <types>
     <members>LoanPayoffQuoteTrigger</members>
     <name>ApexTrigger</name>
 </types>
-
 	<version>55.0</version>
 </Package>

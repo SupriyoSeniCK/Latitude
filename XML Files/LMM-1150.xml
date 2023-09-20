@@ -3,7 +3,6 @@
 <types>
     <members>EquifaxVedaResponseParser</members>
     <members>EquifaxVedaResponseParserHelper</members>
-    <members>EquifaxIntegrationConstants</members>
     <members>EquifaxHardPullTest</members>
     <members>EquifaxHardPullMLAdapter</members>
     <members>EquifaxHardPullMLCallout</members>
@@ -12,6 +11,8 @@
     <members>PreIllionBatchTest</members>
     <members>IntegrationUtil</members>
     <members>IntegrationUtilTest</members>
+    <members>EquifaxIntegrationConstants</members>
+    <members>EquifaxCreditPullAdapter</members>
     <name>ApexClass</name>
 </types>
 <types>
